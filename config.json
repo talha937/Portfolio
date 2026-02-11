@@ -1,6 +1,6 @@
 {
     "meta": {
-        "title": "Portfolio | Md. Abu Talha Lafi",
+        "title": "Portfolio | Abu Talha Lafi",
         "favicon": "💻"
     },
     "theme": {
@@ -17,11 +17,11 @@
         "font_body": "Inter"
     },
     "personal": {
-        "name": "Md. Abu Talha Lafi",
+        "name": "Abu Talha Lafi",
         "title": "Full Stack Developer & Software Engineer",
         "tagline": "Building elegant solutions to complex problems.",
         "email": "abu370160@gmail.com",
-        "phone": "+1 (555) 000-0000",
+        "phone": "+088 019*******",
         "location": "Dhaka, Bangladesh",
         "bio": "I'm a passionate software engineer with expertise in building scalable, high-performance applications. I thrive on solving complex challenges and turning innovative ideas into production-ready solutions. My experience spans full-stack development, cloud architecture, and AI/ML integration.",
         "resume_link": "#",
@@ -31,9 +31,7 @@
     "social": {
         "github": "https://github.com/yourusername",
         "linkedin": "https://linkedin.com/in/yourusername",
-        "twitter": "https://twitter.com/yourusername",
         "leetcode": "https://leetcode.com/yourusername",
-        "devto": "",
         "medium": "",
         "stackoverflow": ""
     },
