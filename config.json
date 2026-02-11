@@ -1,0 +1,296 @@
+{
+    "meta": {
+        "title": "Portfolio | Md. Abu Talha Lafi",
+        "favicon": "💻"
+    },
+    "theme": {
+        "primary_color": "#6C63FF",
+        "secondary_color": "#FF6584",
+        "accent_color": "#00D2FF",
+        "dark_bg": "#0a0a1a",
+        "card_bg": "rgba(255, 255, 255, 0.05)",
+        "text_color": "#e0e0e0",
+        "heading_color": "#ffffff",
+        "gradient_start": "#6C63FF",
+        "gradient_end": "#00D2FF",
+        "font_heading": "Inter",
+        "font_body": "Inter"
+    },
+    "personal": {
+        "name": "Md. Abu Talha Lafi",
+        "title": "Full Stack Developer & Software Engineer",
+        "tagline": "Building elegant solutions to complex problems.",
+        "email": "abu370160@gmail.com",
+        "phone": "+1 (555) 000-0000",
+        "location": "Dhaka, Bangladesh",
+        "bio": "I'm a passionate software engineer with expertise in building scalable, high-performance applications. I thrive on solving complex challenges and turning innovative ideas into production-ready solutions. My experience spans full-stack development, cloud architecture, and AI/ML integration.",
+        "resume_link": "#",
+        "profile_image": "",
+        "available_for_hire": true
+    },
+    "social": {
+        "github": "https://github.com/yourusername",
+        "linkedin": "https://linkedin.com/in/yourusername",
+        "twitter": "https://twitter.com/yourusername",
+        "leetcode": "https://leetcode.com/yourusername",
+        "devto": "",
+        "medium": "",
+        "stackoverflow": ""
+    },
+    "skills": [
+        {
+            "category": "Languages",
+            "icon": "💻",
+            "items": [
+                {"name": "Python", "level": 95},
+                {"name": "JavaScript", "level": 90},
+                {"name": "TypeScript", "level": 85},
+                {"name": "C++", "level": 80},
+                {"name": "Go", "level": 75},
+                {"name": "Rust", "level": 70}
+            ]
+        },
+        {
+            "category": "Frontend",
+            "icon": "🎨",
+            "items": [
+                {"name": "React.js", "level": 90},
+                {"name": "Next.js", "level": 85},
+                {"name": "Vue.js", "level": 80},
+                {"name": "Tailwind CSS", "level": 90},
+                {"name": "HTML/CSS", "level": 95}
+            ]
+        },
+        {
+            "category": "Backend",
+            "icon": "⚙️",
+            "items": [
+                {"name": "Node.js", "level": 90},
+                {"name": "Django", "level": 85},
+                {"name": "Flask", "level": 85},
+                {"name": "FastAPI", "level": 80},
+                {"name": "GraphQL", "level": 75}
+            ]
+        },
+        {
+            "category": "Cloud & DevOps",
+            "icon": "☁️",
+            "items": [
+                {"name": "AWS", "level": 85},
+                {"name": "Docker", "level": 90},
+                {"name": "Kubernetes", "level": 80},
+                {"name": "CI/CD", "level": 85},
+                {"name": "Terraform", "level": 75}
+            ]
+        },
+        {
+            "category": "Databases",
+            "icon": "🗄️",
+            "items": [
+                {"name": "PostgreSQL", "level": 90},
+                {"name": "MongoDB", "level": 85},
+                {"name": "Redis", "level": 80},
+                {"name": "Elasticsearch", "level": 75}
+            ]
+        },
+        {
+            "category": "AI / ML",
+            "icon": "🤖",
+            "items": [
+                {"name": "TensorFlow", "level": 80},
+                {"name": "PyTorch", "level": 75},
+                {"name": "Scikit-learn", "level": 85},
+                {"name": "NLP", "level": 70}
+            ]
+        }
+    ],
+    "experience": [
+        {
+            "company": "Tech Company",
+            "logo": "",
+            "role": "Senior Software Engineer",
+            "duration": "Jan 2024 – Present",
+            "location": "San Francisco, CA",
+            "type": "Full-time",
+            "description": [
+                "Architected and led development of a microservices platform serving 10M+ daily active users",
+                "Reduced system latency by 40% through database optimization and caching strategies",
+                "Mentored a team of 5 junior developers and conducted 100+ code reviews",
+                "Implemented CI/CD pipelines reducing deployment time from 2 hours to 15 minutes"
+            ],
+            "tech": ["Python", "Go", "AWS", "Kubernetes", "PostgreSQL", "Redis"]
+        },
+        {
+            "company": "Another Company",
+            "logo": "",
+            "role": "Software Engineer",
+            "duration": "Jun 2022 – Dec 2023",
+            "location": "Remote",
+            "type": "Full-time",
+            "description": [
+                "Built RESTful APIs handling 50K+ requests per second with 99.9% uptime",
+                "Developed real-time data pipeline processing 1TB+ of data daily",
+                "Collaborated with cross-functional teams to deliver features 2 sprints ahead of schedule",
+                "Designed and implemented an A/B testing framework used across 15+ product teams"
+            ],
+            "tech": ["JavaScript", "React", "Node.js", "MongoDB", "Docker"]
+        },
+        {
+            "company": "Startup Inc.",
+            "logo": "",
+            "role": "Software Engineering Intern",
+            "duration": "May 2021 – Aug 2021",
+            "location": "New York, NY",
+            "type": "Internship",
+            "description": [
+                "Developed a machine learning model improving product recommendations by 25%",
+                "Built an internal dashboard using React reducing report generation time by 60%",
+                "Participated in agile ceremonies and contributed to sprint planning"
+            ],
+            "tech": ["Python", "React", "TensorFlow", "AWS"]
+        }
+    ],
+    "projects": [
+        {
+            "title": "Cloud-Native Microservices Platform",
+            "description": "A production-grade microservices architecture with service mesh, distributed tracing, and auto-scaling capabilities. Handles 100K+ concurrent connections with sub-50ms response times.",
+            "image": "",
+            "tech": ["Go", "Kubernetes", "gRPC", "Prometheus", "Grafana"],
+            "github": "https://github.com/yourusername/project1",
+            "live": "https://project1.example.com",
+            "featured": true,
+            "category": "Backend"
+        },
+        {
+            "title": "AI-Powered Code Review Tool",
+            "description": "An intelligent code review assistant that uses LLMs to analyze pull requests, detect bugs, suggest improvements, and enforce coding standards automatically.",
+            "image": "",
+            "tech": ["Python", "FastAPI", "OpenAI API", "React", "PostgreSQL"],
+            "github": "https://github.com/yourusername/project2",
+            "live": "",
+            "featured": true,
+            "category": "AI/ML"
+        },
+        {
+            "title": "Real-Time Collaboration Platform",
+            "description": "A Google Docs-style real-time collaborative editor with CRDT-based conflict resolution, supporting 1000+ simultaneous users per document.",
+            "image": "",
+            "tech": ["TypeScript", "Next.js", "WebSocket", "Redis", "Y.js"],
+            "github": "https://github.com/yourusername/project3",
+            "live": "https://project3.example.com",
+            "featured": true,
+            "category": "Full Stack"
+        },
+        {
+            "title": "Distributed Task Scheduler",
+            "description": "A fault-tolerant distributed task scheduling system with priority queues, retry mechanisms, and real-time monitoring dashboard.",
+            "image": "",
+            "tech": ["Rust", "Redis", "React", "Docker", "Grafana"],
+            "github": "https://github.com/yourusername/project4",
+            "live": "",
+            "featured": false,
+            "category": "Systems"
+        },
+        {
+            "title": "Personal Finance Tracker",
+            "description": "An intelligent personal finance application with ML-based spending predictions, automated categorization, and interactive data visualizations.",
+            "image": "",
+            "tech": ["Python", "Django", "React", "D3.js", "PostgreSQL"],
+            "github": "https://github.com/yourusername/project5",
+            "live": "https://project5.example.com",
+            "featured": false,
+            "category": "Full Stack"
+        },
+        {
+            "title": "Open Source CLI Framework",
+            "description": "A developer-friendly CLI framework with auto-completion, plugin system, and beautiful terminal UI. 2K+ GitHub stars.",
+            "image": "",
+            "tech": ["Go", "Cobra", "Bubble Tea", "GitHub Actions"],
+            "github": "https://github.com/yourusername/project6",
+            "live": "",
+            "featured": false,
+            "category": "Tools"
+        }
+    ],
+    "education": [
+        {
+            "institution": "University Name",
+            "degree": "Bachelor of Science in Computer Science",
+            "duration": "2018 – 2022",
+            "gpa": "3.9/4.0",
+            "coursework": [
+                "Data Structures & Algorithms",
+                "Distributed Systems",
+                "Machine Learning",
+                "Computer Networks",
+                "Operating Systems",
+                "Database Systems"
+            ],
+            "achievements": [
+                "Dean's List - All Semesters",
+                "Best Senior Capstone Project Award",
+                "Teaching Assistant for CS201 - Data Structures"
+            ]
+        }
+    ],
+    "certifications": [
+        {
+            "name": "AWS Solutions Architect – Professional",
+            "issuer": "Amazon Web Services",
+            "date": "2024",
+            "link": "#"
+        },
+        {
+            "name": "Google Cloud Professional Data Engineer",
+            "issuer": "Google Cloud",
+            "date": "2023",
+            "link": "#"
+        },
+        {
+            "name": "Kubernetes Administrator (CKA)",
+            "issuer": "CNCF",
+            "date": "2023",
+            "link": "#"
+        }
+    ],
+    "achievements": [
+        {
+            "icon": "🏆",
+            "title": "Hackathon Winner",
+            "description": "1st Place at TechCrunch Disrupt Hackathon 2023"
+        },
+        {
+            "icon": "⭐",
+            "title": "Open Source Contributor",
+            "description": "500+ contributions to major open-source projects"
+        },
+        {
+            "icon": "📝",
+            "title": "Technical Writer",
+            "description": "Published 30+ technical articles with 100K+ total reads"
+        },
+        {
+            "icon": "🎤",
+            "title": "Conference Speaker",
+            "description": "Spoke at PyCon, JSConf, and KubeCon"
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "John Doe",
+            "role": "Engineering Manager at Tech Co",
+            "text": "One of the most talented engineers I've worked with. Exceptional problem-solving skills and a true team player.",
+            "avatar": ""
+        },
+        {
+            "name": "Jane Smith",
+            "role": "CTO at Startup Inc.",
+            "text": "Delivered outstanding work consistently. Their ability to architect scalable solutions is remarkable.",
+            "avatar": ""
+        }
+    ],
+    "footer": {
+        "copyright": "2026",
+        "tagline": "Crafted with passion and clean code."
+    }
+}
