@@ -29,8 +29,8 @@
         "available_for_hire": true
     },
     "social": {
-        "github": "https://github.com/yourusername",
-        "linkedin": "https://linkedin.com/in/yourusername",
+        "github": "https://github.com/talha937",
+        "linkedin": "https://www.linkedin.com/in/md-abu-talha-lafi-921632315?",
         "leetcode": "https://leetcode.com/yourusername",
         "medium": "",
         "stackoverflow": ""
@@ -150,21 +150,21 @@
     ],
     "projects": [
         {
-            "title": "Cloud-Native Microservices Platform",
-            "description": "A production-grade microservices architecture with service mesh, distributed tracing, and auto-scaling capabilities. Handles 100K+ concurrent connections with sub-50ms response times.",
+            "title": "CalcMate: Where Numbers Meet Clarity",
+            "description": "CalcMate is a professional, visually engaging calculator application built with Python's Tkinter library. Designed with an elegant and modern color scheme, this project demonstrates how to create a user-friendly GUI calculator .",
             "image": "",
-            "tech": ["Go", "Kubernetes", "gRPC", "Prometheus", "Grafana"],
-            "github": "https://github.com/yourusername/project1",
+            "tech": ["Variables and Data Types", "Functions and Methods", "Classes and Objects", "Conditional Statements", "String Manipulation", "Exception Handling", "GUI Programming", "Importing Modules", "Main Program Structure"],
+            "github": "https://github.com/talha937/Calculator",
             "live": "https://project1.example.com",
             "featured": true,
-            "category": "Backend"
+            "category": "Python Basics"
         },
         {
             "title": "AI-Powered Code Review Tool",
             "description": "An intelligent code review assistant that uses LLMs to analyze pull requests, detect bugs, suggest improvements, and enforce coding standards automatically.",
             "image": "",
             "tech": ["Python", "FastAPI", "OpenAI API", "React", "PostgreSQL"],
-            "github": "https://github.com/yourusername/project2",
+            "github": "https://github.com/talha937/project2",
             "live": "",
             "featured": true,
             "category": "AI/ML"
@@ -174,7 +174,7 @@
             "description": "A Google Docs-style real-time collaborative editor with CRDT-based conflict resolution, supporting 1000+ simultaneous users per document.",
             "image": "",
             "tech": ["TypeScript", "Next.js", "WebSocket", "Redis", "Y.js"],
-            "github": "https://github.com/yourusername/project3",
+            "github": "https://github.com/talha937/project3",
             "live": "https://project3.example.com",
             "featured": true,
             "category": "Full Stack"
@@ -184,7 +184,7 @@
             "description": "A fault-tolerant distributed task scheduling system with priority queues, retry mechanisms, and real-time monitoring dashboard.",
             "image": "",
             "tech": ["Rust", "Redis", "React", "Docker", "Grafana"],
-            "github": "https://github.com/yourusername/project4",
+            "github": "https://github.com/talha937/project4",
             "live": "",
             "featured": false,
             "category": "Systems"
@@ -194,7 +194,7 @@
             "description": "An intelligent personal finance application with ML-based spending predictions, automated categorization, and interactive data visualizations.",
             "image": "",
             "tech": ["Python", "Django", "React", "D3.js", "PostgreSQL"],
-            "github": "https://github.com/yourusername/project5",
+            "github": "https://github.com/talha937/project5",
             "live": "https://project5.example.com",
             "featured": false,
             "category": "Full Stack"
@@ -204,7 +204,7 @@
             "description": "A developer-friendly CLI framework with auto-completion, plugin system, and beautiful terminal UI. 2K+ GitHub stars.",
             "image": "",
             "tech": ["Go", "Cobra", "Bubble Tea", "GitHub Actions"],
-            "github": "https://github.com/yourusername/project6",
+            "github": "https://github.com/talha937/project6",
             "live": "",
             "featured": false,
             "category": "Tools"
